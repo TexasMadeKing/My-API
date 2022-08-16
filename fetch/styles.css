@@ -1,0 +1,24 @@
+.all-food-items {
+    display: flex;
+    justify-content: space-evenly;
+        align-items: center;
+}
+
+.all-food-items > .food-item {
+    color: red;
+}
+
+
+.all-food-items > .breakfast {
+    color: blue;
+}
+
+
+.all-food-items > .lunch {
+    color: Green;
+}
+
+
+.all-food-items > .dinner {
+    color: orangered;
+}

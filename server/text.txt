@@ -1,0 +1,7 @@
+pipenv install Flask
+
+pipenv install Flask-SQLAlchemy
+
+pipenv install flask-marshmallow
+
+pipenv install marshmallow-sqlalchemy
